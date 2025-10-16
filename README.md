@@ -3,7 +3,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Arjuna Satria. I learn Full Stack Development and Cloud computing.</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Arjuna Satria — a passionate Full Stack Developer who loves exploring Cloud Computing and continuously learning DevOps.</h1></summary>
   </ul>
 </div>
 
@@ -15,20 +15,50 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Technologies That I Know👨🏻‍💻</h1></summary>
+    <summary><h1 style="display: inline-block">🧠 Technologies That I Know 👨🏻‍💻</h1></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!-- 💻 Programming Languages -->
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,firebase,go,nodejs,laravel,vue,postgres,mysql&perline=9" />
+    <img src="https://skillicons.dev/icons?i=go,java,php,typescript,javascript,dart&perline=8" />
   </a>
 </p>
+
+<!-- ⚙️ Frameworks & Libraries -->
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,java,php,react,next,typescript,mongodb,git,dart&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,next,vue,nodejs,express,laravel&perline=8" />
   </a>
 </p>
+
+<!-- 🗄️ Databases -->
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
+  </a>
+</p>
+
+<!-- ☁️ Cloud & DevOps -->
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=8" />
+  </a>
+</p>
+
+<!-- 🧰 Tools -->
+<h3 align="center">🧰 Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,vscode,arch,linux&perline=8" />
+  </a>
+</p>
+
 
 <div id="user-content-toc">
   <ul align="center">
@@ -41,14 +71,14 @@
 <tr>
 <td width="50%" align="center">
 
-  <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=xzxcupapi&theme=react&hide_border=true&border_radius=50&show_icons=true&v=2" /> -->
+  <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arjunastrw&theme=react&hide_border=true&border_radius=50&show_icons=true&v=2" /> -->
   <!-- <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=xzxcupapi&theme=react&hide_border=true&border_radius=50&v=2" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://arjunastrw.vercel.app/api?username=arjunastrw&show_icons=true&theme=radical" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xzxcupapi&theme=react&hide_border=true&no&border_radius=50&langs_count=5&v=2"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjunastrw&theme=radical&hide_border=true&no&border_radius=50&langs_count=5&v=2"/>
 
 </td>
 </tr>
@@ -86,7 +116,7 @@
 </p>
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=xzxcupapi&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arjunastrw&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
 <!--# 🌐 Job Portal-->
