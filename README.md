@@ -31,7 +31,7 @@
 <h3 align="center">⚙️ Frameworks & Libraries</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,vue,nodejs,express,laravel&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,vite,tailwind,nodejs,express,nestjs,laravel,symfony,spring,flutter,prisma,graphql&perline=8" />
   </a>
 </p>
 
@@ -41,6 +41,17 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
   </a>
+</p>
+
+<!-- 📨 Messaging & Queues -->
+<h3 align="center">📨 Messaging & Queues</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis&perline=8" />
+  </a>
+</p>
+<p align="center">
+  <sub>ActiveMQ · Amazon SNS / SQS</sub>
 </p>
 
 <!-- ☁️ Cloud & DevOps -->
@@ -59,32 +70,32 @@
   </a>
 </p>
 
-
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">GitHub Stats👨📊</h1></summary>
+    <summary><h1 style="display: inline-block">📊 GitHub</h1></summary>
   </ul>
 </div>
 
-<!--- stats & Trophy (start) -->
-<table align="center" border="0">
-<tr>
-<td width="50%" align="center">
-
-  <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=arjunastrw&theme=react&hide_border=true&border_radius=50&show_icons=true&v=2" /> -->
-  <!-- <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://arjunastrw.vercel.app/api?username=arjunastrw&show_icons=true&theme=radical" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjunastrw&theme=radical&hide_border=true&no&border_radius=50&langs_count=5&v=2"/>
-
-</td>
-</tr>
-</table>
-<!--- stats (end) -->
-
+<!-- stats: github-readme-stats + streak-stats (https://git.io/streak-stats) -->
+<p align="center">
+  <img
+    height="165"
+    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=arjunastrw&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true"
+  />
+  <img
+    height="165"
+    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com/?user=arjunastrw&theme=tokyonight&hide_border=true&border_radius=10&short_numbers=true&date_format=j%20M%5B%2C%20Y%5D"
+  />
+</p>
+<p align="center">
+  <img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunastrw&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6"
+  />
+</p>
+<!-- Streak: ganti `src` ke deploy Vercel kamu jika instance publik sering limit -->
 
 <!--#  🛠 Projects️-->
 
@@ -107,12 +118,12 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/arjunasatria/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/kindboy_env" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://x.com/kindboy_env" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
 <a href="https://www.instagram.com/arjunastrw/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 
-[//]: # (<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>)
+[//]: # '<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>'
+[//]: # '<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>'
 
-[//]: # (<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>)
 </p>
 <div align="center">
 
